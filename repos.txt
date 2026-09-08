@@ -4,5 +4,5 @@
 # Filters are case‑insensitive regular expressions (grep -E).
 # example text for test
 # add more
-# DONE
+# it`s ok now
 
